@@ -3,8 +3,8 @@ table{
     height: 500px;
 }
 td{
-    width: 50%;
-    height: 50%;
+    width: fluid;
+    height: fluid;
     border: 1px solid;
     border-color: black;
 }
